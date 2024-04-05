@@ -6,7 +6,7 @@
 ### - Student at Apple Academy
 ### - Video game dev familiar with RPGMaker MZ
 ### - Primarily pursuing C# certification
-
+### - Familiar with making software in Swift and Python
 
 
 
