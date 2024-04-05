@@ -1,5 +1,15 @@
 # Heya! Cannon Goldsby Here!
 
+## About Me
+### - Part time student at Henry Ford College
+### - Currently enrolled as a Liberal Arst Major pursuing CS credentials
+### - Student at Apple Academy
+### - Video game dev familiar with RPGMaker MZ
+### - Primarily pursuing C# certification
+
+
+
+
 
 <!--
 **DrCuZar/DrCuZar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
